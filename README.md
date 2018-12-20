@@ -16,12 +16,12 @@
 
 # Resources
 
-### Overview
+### :eyeglasses: Overview
 
-### Frontend Basics
+### :art: Frontend Basics
 
-- [:art: CSS Basics](http://www.cssbasics.com/)
+- [CSS Basics](http://www.cssbasics.com/)
 
-### Frontend Frameworks
+### :art: Frontend Frameworks
 
-- [:art: Vue.js](https://vuejs.org/)
+- [Vue.js](https://vuejs.org/)

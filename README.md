@@ -26,7 +26,12 @@
 ### :art: Frontend Frameworks
 
 - [React](https://reactjs.org/)
+
+  > React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+
 - [Vue.js](https://vuejs.org/)
+
+  > Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.
 
 ### :art: Frontend Resources
 

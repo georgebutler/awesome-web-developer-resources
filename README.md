@@ -6,6 +6,7 @@
   - [:eyeglasses: Overview](#overview)
   - [:art: Frontend Basics](#frontend-basics)
   - [:art: Frontend Frameworks](#frontend-frameworks)
+  - [:art: Frontend Resources](#frontend-resources)
   - [:card_file_box: Backend Basics](#backend-basics)
   - [:card_file_box: Backend Frameworks](#backend-frameworks)
   - [:camera_flash: Youtube Channels](#youtube-channels)
@@ -24,4 +25,9 @@
 
 ### :art: Frontend Frameworks
 
+- [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
+
+### :art: Frontend Resources
+
+- [SubtlePatterns](https://www.toptal.com/designers/subtlepatterns/)

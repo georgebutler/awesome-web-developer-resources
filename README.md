@@ -35,4 +35,12 @@
 
 ### :art: Frontend Resources
 
+- [Sass](https://sass-lang.com/)
 - [SubtlePatterns](https://www.toptal.com/designers/subtlepatterns/)
+
+# Dev Tools
+
+- [Google Chrome](https://www.google.com/chrome/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Adobe XD](https://www.adobe.com/products/xd.html)
+- [GitBash](https://git-scm.com/downloads)

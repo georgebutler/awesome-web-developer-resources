@@ -17,7 +17,6 @@
 - [Tools](#tools)
   - [Programs](#programs)
   - [Languages](#languages)
-  - [Webtools](#Webtools)
 - [Books](#books)
 - [Videos](#videos)
 - [Community](#community)
@@ -48,9 +47,15 @@
 
 ## Articles
 
+- TODO
+
 ## Tools
 
 ### Programs
+
+- [WebGradients](https://webgradients.com/) - WebGradients contains 180 fresh backdrop gradients lovely served in Sketch, PSD, CSS and PNG formats.
+- [UIGradients](https://uigradients.com) - Gradients for design.
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Create color schemes easily.
 
 - [Chrome](https://www.google.com/chrome/) - Now more simple, secure, and faster than ever.
 - [Visual Studio Code](https://code.visualstudio.com/) - Free. Open source. Runs everywhere.
@@ -61,17 +66,17 @@
 
 - [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
-### Webtools
-
-- [WebGradients](https://webgradients.com/) - WebGradients contains 180 fresh backdrop gradients lovely served in Sketch, PSD, CSS and PNG formats.
-- [UIGradients](https://uigradients.com) - Gradients for design.
-- [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Create color schemes easily.
-
 ## Books
+
+- TODO
 
 ## Videos
 
+- TODO
+
 ## Community
+
+- TODO
 
 ## Courses
 

@@ -15,6 +15,9 @@
 - [Style Guides](#style-guides)
 - [Articles](#articles)
 - [Tools](#tools)
+  - [Programs](#programs)
+  - [Languages](#languages)
+  - [Webtools](#Webtools)
 - [Books](#books)
 - [Videos](#videos)
 - [Community](#community)
@@ -47,12 +50,22 @@
 
 ## Tools
 
+### Programs
+
 - [Chrome](https://www.google.com/chrome/) - Now more simple, secure, and faster than ever.
 - [Visual Studio Code](https://code.visualstudio.com/) - Free. Open source. Runs everywhere.
 - [Adobe XD](https://www.adobe.com/products/xd.html) - The fastest way to design, prototype, and share any user experience, from websites and mobile apps to voice interactions, and more.
 - [GitBash](https://git-scm.com/downloads) - Extends the terminal's functionality.
 
+### Languages
+
 - [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+
+### Webtools
+
+- [WebGradients](https://webgradients.com/) - WebGradients contains 180 fresh backdrop gradients lovely served in Sketch, PSD, CSS and PNG formats.
+- [UIGradients](https://uigradients.com) - Gradients for design.
+- [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - Create color schemes easily.
 
 ## Books
 

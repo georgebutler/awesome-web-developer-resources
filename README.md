@@ -72,7 +72,8 @@
 
 ## Videos
 
-- TODO
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Black-belt your development skills. Tutorials on: Modern JavaScript (beginner to advanced), Node.js, React, Vue.js, Firebase, MongoDB, HTML & CSS, Plus loads more...
 
 ## Community
 
